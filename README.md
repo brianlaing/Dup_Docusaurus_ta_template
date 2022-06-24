@@ -1,2 +1,2 @@
-# Dup_Docusaurus_ta_template
- This is a duplicate of the working TA Docusaurus template
+# Docusaurus_ta_template
+The TA branded Docusaurus template based on Jorsek template
